@@ -110,32 +110,8 @@ Ces résultats confirment les prédictions théoriques dérivées de l’analyse
 
 ---
 
-# 5. Discussion générale
 
-Les deux expériences illustrent de manière claire la thèse de Gregory :  
-> la perception visuelle repose sur des inférences et interprétations automatiques, souvent basées sur des indices de profondeur.
-
-### Points clés confirmés :
-
-- De simples configurations géométriques (angles, convergence, perspective) suffisent à modifier profondément la perception de la taille.  
-- Le cerveau n’interprète pas l’image comme un motif 2D, mais comme une **scène 3D**.  
-- Les illusions observées sont cohérentes avec l’idée que la perception est un **processus hypothético-déductif**.
-
-### Limites du projet :
-
-- Échantillon réduit (souvent un seul participant dans un projet étudiant).  
-- Absence de contrôle strict des conditions (temps d’exposition, distance œil-écran).  
-- Résultats variables selon la sensibilité individuelle aux illusions.
-
-### Forces du projet :
-
-- Reproductibilité : les deux scripts génèrent automatiquement les fichiers CSV ;  
-- Code simple et portable ;  
-- Expériences alignées avec les modèles perceptifs classiques.
-
----
-
-# 6. Conclusion
+# 5. Conclusion
 
 Ce projet met en évidence comment des illusions géométriques permettent d’étudier les mécanismes cognitifs de la perception visuelle.  
 Les expériences montrent que les individus interprètent spontanément les configurations 2D comme des scènes 3D, conduisant à des erreurs systématiques de perception.  
@@ -144,7 +120,7 @@ Les observations obtenues concordent avec l’analyse de Gregory (1965), selon l
 
 ---
 
-# 7. Références
+# 6. Références
 
 Gregory, R. L. (1965). *Seeing in Depth*.  
 **(PDF inclus dans le dossier /doc/)**
