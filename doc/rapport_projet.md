@@ -1,7 +1,7 @@
 # Projet expérimental – Illusions visuelles et perception de la profondeur  
 ### Approches expérimentales de la cognition  
-**Auteur :** *[Ton nom]*  
-**Année :** 2024–2025  
+**Auteur :** *Christele JASSER*  
+
 
 ---
 
