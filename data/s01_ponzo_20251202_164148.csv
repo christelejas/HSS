@@ -1,0 +1,15 @@
+subject_id,trial_index,length_diff,top_length,bottom_length,correct_answer,response,is_correct,rt
+s01,1,-20,240,260,bottom,top,False,14.329
+s01,2,20,280,260,top,top,True,0.002
+s01,3,-20,240,260,bottom,bottom,True,0.002
+s01,4,-20,240,260,bottom,top,False,0.003
+s01,5,-20,240,260,bottom,top,False,0.677
+s01,6,0,260,260,equal,bottom,,0.346
+s01,7,20,280,260,top,bottom,False,0.119
+s01,8,-40,220,260,bottom,top,False,0.002
+s01,9,-20,240,260,bottom,bottom,True,0.004
+s01,10,0,260,260,equal,top,,0.794
+s01,11,40,300,260,top,top,True,0.743
+s01,12,40,300,260,top,top,True,0.758
+s01,13,-20,240,260,bottom,top,False,0.561
+s01,14,0,260,260,equal,top,,0.547

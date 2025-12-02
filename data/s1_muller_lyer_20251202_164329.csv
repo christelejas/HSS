@@ -1,0 +1,5 @@
+subject_id,trial_index,angle,ref_length,initial_test_length,final_test_length,adjustment_steps,rt
+s1,1,110,300,300,290,1,5.894
+s1,2,70,300,300,300,0,1.101
+s1,3,40,300,300,300,0,1.118
+s1,4,140,300,300,300,0,0.933
