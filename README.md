@@ -26,7 +26,7 @@ Ces illusions permettent d’examiner comment la perception de la profondeur inf
 
 ---
 
-## 🔹 Expérience 1 : Illusion de Müller-Lyer
+## Expérience 1 : Illusion de Müller-Lyer
 
 ### Objectif
 Étudier comment l’orientation des “ailes” modifie la perception de la longueur d’une ligne.  
@@ -43,7 +43,7 @@ Le but est de mesurer **l’erreur d’illusion**, c’est-à-dire l’écart en
 
 ---
 
-## 🔹 Expérience 2 : Illusion de Ponzo
+## Expérience 2 : Illusion de Ponzo
 
 ### Objectif
 Montrer comment la **perspective** influence la perception de la taille : deux lignes identiques semblent différentes lorsqu’elles sont placées dans un cadre convergent (comme des rails qui se rapprochent).
@@ -70,5 +70,6 @@ Les expériences permettent :
 - d'observer concrètement ces erreurs,
 - de mesurer leur intensité,
 - de relier les résultats aux modèles cognitifs de Gregory.
+
 
 
